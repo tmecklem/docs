@@ -33,7 +33,7 @@ NIGHTSCOUT_HOST=https://<your Nightscout address>; export NIGHTSCOUT_HOST
 API_SECRET=<your hashed password>; export API_SECRET
 ```
 
-Now run ```source /etc/profile``` to enact the changes we've just made without restart the machine
+Now run ```source /etc/profile``` to enact the changes we've just made without restarting the machine
 
 ### Configure Nightscout profile
 
